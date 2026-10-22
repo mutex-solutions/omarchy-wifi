@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "mutex-solutions.wifi",
   "name": "Wi-Fi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mutex-solutions",
   "license": "MIT",
   "description": "Wi-Fi status, networks and connection for Omarchy, as a bar widget or a Deck section.",

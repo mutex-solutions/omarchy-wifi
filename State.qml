@@ -12,7 +12,7 @@ Item {
 
   readonly property bool active: Networking.wifiEnabled
   readonly property string label: "Wi-Fi"
-  readonly property string icon: "≋"
+  readonly property string icon: "󰖩"
 
   readonly property var device: {
     var devs = Networking.devices ? Networking.devices.values : []

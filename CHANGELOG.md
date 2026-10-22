@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- The tile glyph is a Material icon, matching the other Deck tiles.
+
 ## 0.1.0
 
 First release.
