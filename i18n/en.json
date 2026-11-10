@@ -1,0 +1,12 @@
+{
+  "wifi.cancel": "Cancel",
+  "wifi.connected": "Connected",
+  "wifi.ethernet": "Ethernet",
+  "wifi.hiddenNetwork": "Hidden network",
+  "wifi.identity": "Identity",
+  "wifi.omarchySettings": "Omarchy settings",
+  "wifi.scanAgain": "Scan again",
+  "wifi.show": "Show",
+  "wifi.signInToNetwork": "Sign in to network",
+  "wifi.wiFi": "Wi-Fi"
+}
